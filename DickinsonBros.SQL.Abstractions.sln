@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DickinsonBros.SQL.Abstractions", "DickinsonBros.SQL.Abstractions\DickinsonBros.SQL.Abstractions.csproj", "{B85FB62F-6EFF-4A7B-AD23-353C211BB4B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Abstractions", "1 Abstractions", "{47C96BC5-BEAD-4D69-AD67-B71D55DE626B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 Scripts", "9 Scripts", "{A419C7A6-1C57-45A7-8E12-90956EA21779}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\CreateNugetPackagePreRelease.ps1 = Scripts\CreateNugetPackagePreRelease.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85FB62F-6EFF-4A7B-AD23-353C211BB4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85FB62F-6EFF-4A7B-AD23-353C211BB4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85FB62F-6EFF-4A7B-AD23-353C211BB4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85FB62F-6EFF-4A7B-AD23-353C211BB4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B85FB62F-6EFF-4A7B-AD23-353C211BB4B3} = {47C96BC5-BEAD-4D69-AD67-B71D55DE626B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF133975-CF73-4502-96B9-D10B8026EF44}
+	EndGlobalSection
+EndGlobal
