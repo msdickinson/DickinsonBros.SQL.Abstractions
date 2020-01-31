@@ -3,6 +3,6 @@
     <img src="https://img.shields.io/nuget/v/DickinsonBros.SQL.Abstractions">
 </a>
 
-Abstractions For DickinsonBros.SQL 
+Abstractions For <a href="https://github.com/msdickinson/DickinsonBros.DateTime">DickinsonBros.SQL </a>
 
-https://github.com/msdickinson/DickinsonBros.SQL
+<a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_build?definitionScope=%5CDickinsonBros.SQL.Abstractions">Builds</a>
